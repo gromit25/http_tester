@@ -8,3 +8,5 @@ print(url)
 print(response)
 if response.status_code == 200:
     print(response.text)
+
+print('test 입니다.')
